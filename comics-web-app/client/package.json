@@ -1,0 +1,24 @@
+{
+  "name": "comics-web-app",
+  "version": "1.0.0",
+  "description": "A web application for reading comics, listening to audio comics, and reading stories in Vietnamese.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-plugin-react": "^7.27.0"
+  },
+  "homepage": ".",
+  "license": "MIT"
+}

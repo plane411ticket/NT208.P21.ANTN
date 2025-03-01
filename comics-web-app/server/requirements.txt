@@ -1,0 +1,6 @@
+Django==4.2
+djangorestframework==3.14.0
+mysqlclient==2.1.1
+Pillow==9.5.0
+django-cors-headers==3.14.0
+python-dotenv==1.0.0
